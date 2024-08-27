@@ -17,9 +17,7 @@ Requirements
 - Requests
 - OpenAI Python SDK
 
-Setup Instructions
-
-1. Clone the Repository then build and run
+Setup Instructions: Clone the Repository, then build and run
 
 ```bash
 git clone https://github.com/yourusername/voice_assistant_flask.git
